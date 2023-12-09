@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">aston_intensiv_4</string>
+    <string name="hello_fragment_a">Hello! , i am Fragment A</string>
+    <string name="go_to_fragment_b">go to Fragment B</string>
+    <string name="back_to_a">back to A</string>
+    <string name="go_to_c">go to C</string>
+    <string name="fragment_b_title">i am fragment B</string>
+    <string name="go_to_d">go to D</string>
+    <string name="fragment_d_title">I am Fragment D</string>
+    <string name="back_to_fragment_b">back to fragment B</string>
+    <string name="fragment_c_title">I am fragment C</string>
+    <string name="user_image">user image</string>
+    <string name="name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="save">Сохранить</string>
+    <string name="image_src">Ссылка на фото</string>
+    <string name="task_1">Задание 1</string>
+    <string name="task_2">Задание 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
 </resources>
